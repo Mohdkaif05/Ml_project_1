@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: ml_project
+Version: 1.0.0
+Summary: An awesome project
+Author: Mohd Kaif
+Author-email: officialmohdkaif20@gmail.com
+Requires-Python: >=3.8
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
